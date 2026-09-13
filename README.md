@@ -1,4 +1,4 @@
-# Selected Works
+## Selected Works & Experiments
 Personal implementations and experiments with Qiskit 2.5.2, covering quantum circuits, states, gates, measurement, and foundational algorithms.
 <p align="center">
 
